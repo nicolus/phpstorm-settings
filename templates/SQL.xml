@@ -1,0 +1,12 @@
+<templateSet group="SQL">
+  <template name="dist" value="inner join utilisateur u ON u.Id_utilisateur = v.Id_utilisateur&#10;inner join societe s ON s.Id_societe = u.Id_societe&#10;inner join distributeur d ON d.Id_distributeur = s.Id_distributeur" description="join utilisateur / societe / distributeur" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="spot" value="'132D6E73-FCFF-B133-5DD1-DDF8A7419890', -- spotvideo&#10;'59C4948B-DB6D-FDAF-E15D-CD67B8347126', -- youtube&#10;'1876B6F8-6894-1335-44C5-D984D5C8E04E', -- youtube corp&#10;'38429EA1-8BAD-1795-807E-B46BCF131567', -- dailymotion&#10;'812F1D71-043D-282E-640E-2B3F66072949'  -- dailymotion corp" description="portails spotvideo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,10 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Git.Branches" />
+      <action id="Git.CreateNewBranch">
+        <abbreviation name="nb" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

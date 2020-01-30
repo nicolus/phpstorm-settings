@@ -1,0 +1,64 @@
+<application>
+  <component name="libraryTable">
+    <library name="function" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_tour.previsite.com_xml_template_krpano_html_js_function.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_tour.previsite.com_xml_template_krpano_html_js_function.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gruntjs-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gruntjs_gruntjs.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-latest" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_tour.previsite.com_xml_template_krpano_html_js_jquery-latest.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_tour.previsite.com_xml_template_krpano_html_js_jquery-latest.min.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="krpano" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_tour.previsite.com_files_krpano_latest_krpano.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_tour.previsite.com_files_krpano_latest_krpano.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="standalone" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_tour.previsite.com_xml_template_krpano_html_js_standalone.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_tour.previsite.com_xml_template_krpano_html_js_standalone.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="webfont-b790f612ab51676c64cfe23313ca95da" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde90/system/extLibs/__goplaceit-beta.s3.amazonaws.com_assets_webfont-b790f612ab51676c64cfe23313ca95da.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

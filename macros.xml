@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="gettext">
+      <action id="SurroundWithLiveTemplate" />
+      <typing text-keycode="71:0">g</typing>
+    </macro>
+    <macro name="distraction-free">
+      <action id="ToggleFullScreen" />
+      <action id="ToggleDistractionFreeMode" />
+    </macro>
+  </component>
+</application>
